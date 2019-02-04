@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "ShootingGame",
+"dataUrl": "tank-zombie.data.unityweb",
+"asmCodeUrl": "tank-zombie.asm.code.unityweb",
+"asmMemoryUrl": "tank-zombie.asm.memory.unityweb",
+"asmFrameworkUrl": "tank-zombie.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
